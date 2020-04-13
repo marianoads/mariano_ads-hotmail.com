@@ -1,0 +1,7 @@
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\bin\Debug\Ejercicio PRODUCTOS -5.exe.config
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\bin\Debug\Ejercicio PRODUCTOS -5.exe
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\bin\Debug\Ejercicio PRODUCTOS -5.pdb
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\obj\Debug\Repaso.csprojAssemblyReference.cache
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\obj\Debug\Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\obj\Debug\Ejercicio PRODUCTOS -5.exe
+C:\Users\Mariano\Desktop\Ejercicios laboratorio 2\Ejercicio PRODUCTOS -5\obj\Debug\Ejercicio PRODUCTOS -5.pdb
